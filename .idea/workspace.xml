@@ -17,8 +17,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+                <state relative-caret-position="225">
+                  <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -29,11 +29,13 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-94">
-                  <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+                <state relative-caret-position="252">
+                  <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
                   <folding>
                     <element signature="e#303#304#0" expanded="true" />
                     <element signature="e#324#325#0" expanded="true" />
+                    <element signature="e#464#465#0" expanded="true" />
+                    <element signature="e#502#503#0" expanded="true" />
                     <element signature="e#376#377#0" expanded="true" />
                     <element signature="e#395#396#0" expanded="true" />
                   </folding>
@@ -97,9 +99,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="height" value="1118" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -153,7 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563199808144" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563200122941" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrinterTest">
+  <component name="RunManager" selected="JUnit.PrinterTest.tonerIsReducedBy1">
     <configuration name="PrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWorkWaterBottle" />
       <option name="PACKAGE_NAME" value="" />
@@ -219,8 +222,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrinterTest" />
         <item itemvalue="JUnit.PrinterTest.tonerIsReducedBy1" />
+        <item itemvalue="JUnit.PrinterTest" />
         <item itemvalue="JUnit.PrinterTest.wontPrintIfNoPaper" />
         <item itemvalue="JUnit.PrinterTest.canPrint" />
         <item itemvalue="JUnit.PrinterTest.hasPaper" />
@@ -241,15 +244,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WaterBottleTest_fillBottle - 2019.07.15 at 14h 18m 17s.xml">
-      <configuration name="WaterBottleTest.fillBottle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest_canSubtract - 2019.07.15 at 14h 25m 15s.xml">
-      <configuration name="CalculatorTest.canSubtract" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest_canAdd - 2019.07.15 at 14h 27m 30s.xml">
-      <configuration name="CalculatorTest.canAdd" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest_canSubtract - 2019.07.15 at 14h 31m 57s.xml">
       <configuration name="CalculatorTest.canSubtract" configurationId="JUnit" />
     </history-entry>
@@ -271,10 +265,18 @@
     <history-entry file="PrinterTest_wontPrintIfNoPaper - 2019.07.15 at 15h 05m 18s.xml">
       <configuration name="PrinterTest.wontPrintIfNoPaper" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrinterTest_tonerIsReducedBy1 - 2019.07.15 at 15h 09m 03s.xml">
+      <configuration name="PrinterTest.tonerIsReducedBy1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest_tonerIsReducedBy1 - 2019.07.15 at 15h 09m 56s.xml">
+      <configuration name="PrinterTest.tonerIsReducedBy1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2019.07.15 at 15h 10m 05s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1119" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="900" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -289,7 +291,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -368,11 +370,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="252">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="e#303#304#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
             <element signature="e#376#377#0" expanded="true" />
             <element signature="e#395#396#0" expanded="true" />
           </folding>
@@ -381,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -33,7 +33,7 @@ public class Printer {
         if(this.paperLeft > 0) {
             int printed = pages * copies;
             this.paperLeft -= printed;
-            this.tonerVolume -=1;
+            this.tonerVolume -= printed;
             return "Printed";
         } else {
            return "No Paper Left";
